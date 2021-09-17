@@ -303,11 +303,13 @@ color: #fbad18;font-size: 20px;font-weight: bold;
 
 @media (max-width: 722px) {
  #open-popup-btn{
-    top: 27.5em;
+   top: 77.5rem;
+    position: fixed;
     display: block;
     border: 0;
+    width: 40rem;
     line-height: 1;
-    font-size: 0.9em;
+    font-size: 2.9rem;
     padding: 1em 3em;
     border-radius: 30em;
     background: #fbad18;
